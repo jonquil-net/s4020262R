@@ -8,17 +8,17 @@
 
 
 ### (∩^.^)⊃━✧ ∽✿♪ Contents
- - [x] Assignment Outline
+ -  Assignment Outline
 
- - [x] Description/ Process 
- - [x] Instructions
- - [x] Colour  
- - [ ] Sound  
- - [ ] References & Attributions
- - [ ] Additional Comments 
- - [ ] Author
+ -  Description/ Process 
+ -  Instructions
+ -  Colour  
+ -  Sound  
+ -  References & Attributions
+ -  Additional Comments 
+ -  Author
 
-[TOC]
+
 
 
 
@@ -144,6 +144,7 @@ The colours used are a cool-toned pallete with splashes of orchid magenta on a l
   ⇡ First draft cool *<u>accented analogous</u>* pallete ⇡
 
 ![blue-magenta pallete](https://64.media.tumblr.com/e2ecf091b50b3aa8d425e6dd80226676/a19699669822fba3-be/s400x600/1982b96d9f51daaa66d54c5da120344143de27b4.pnj)
+
 ⇡ Expanded colour pallete from tints, ⇡  
  ⇡ tones, and shades of the base colours. ⇡
 
@@ -152,7 +153,8 @@ The colours used are a cool-toned pallete with splashes of orchid magenta on a l
 
 ⇣Draft palletes ⇣
 
-![colour palletes 1](C:\Users\User\Desktop\UNI\Studio1\icon suite 1\Homework\colour tests\colour palletes 1.png)<img src="C:\Users\User\Desktop\UNI\Studio1\icon suite 1\Homework\colour tests\colour tests 2.png" alt="colour tests 2" style="zoom:25%;" /><img src="C:\Users\User\Desktop\UNI\Studio1\icon suite 1\Homework\colour tests\Colour tests 3+4.png" alt="Colour tests 3+4" style="zoom:25%;" />⇠ Colour test images
+![](https://64.media.tumblr.com/5a4f2868dff9e4893aab5bd4ab0e4967/64a7174519d02852-f9/s1280x1920/188b367bb645154440558e124fb9c45b1d6af5c0.pnj)<img src="https://64.media.tumblr.com/5f9098e0d870ae706773562b7b5ace47/64a7174519d02852-bb/s1280x1920/1e9dd4e2f76bed30decacf4692b67be75e389041.pnj" alt="colour tests 2" style="zoom:25%;" /><img src="![image](https://user-images.githubusercontent.com/128434192/233359723-40de471d-fdc7-4464-a686-ba00d97203df.png)" alt="Colour tests 3+4" style="zoom:25%;" />
+⇠ Colour test images
 
 ***
 
