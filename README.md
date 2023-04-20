@@ -141,7 +141,8 @@ The colours used are a cool-toned pallete with splashes of orchid magenta on a l
 
 ### <u>**4. Colours**</u>
 ![](https://static.wixstatic.com/media/df862d_a925fb558c304538b7d9b10ee5a4933b~mv2.png)
-  ⇡ First draft cool *<u>accented analogous</u>* pallete ⇡
+ 
+ ⇡ First draft cool *<u>accented analogous</u>* pallete ⇡
 
 ![blue-magenta pallete](https://64.media.tumblr.com/e2ecf091b50b3aa8d425e6dd80226676/a19699669822fba3-be/s400x600/1982b96d9f51daaa66d54c5da120344143de27b4.pnj)
 
@@ -149,11 +150,12 @@ The colours used are a cool-toned pallete with splashes of orchid magenta on a l
  ⇡ tones, and shades of the base colours. ⇡
 
 ![](https://64.media.tumblr.com/127f48b3963f325943a6bd75d90ab7a6/a19699669822fba3-3a/s400x600/5e99ab248b08fc233c6993f40da7babce5353a43.pnj)
+
  ⇡ Blue gradients from main swatches ⇡  
 
 ⇣Draft palletes ⇣
 
-![](https://64.media.tumblr.com/5a4f2868dff9e4893aab5bd4ab0e4967/64a7174519d02852-f9/s1280x1920/188b367bb645154440558e124fb9c45b1d6af5c0.pnj)<img src="https://64.media.tumblr.com/5f9098e0d870ae706773562b7b5ace47/64a7174519d02852-bb/s1280x1920/1e9dd4e2f76bed30decacf4692b67be75e389041.pnj" alt="colour tests 2" style="zoom:25%;" /><img src="![image](https://user-images.githubusercontent.com/128434192/233359723-40de471d-fdc7-4464-a686-ba00d97203df.png)" alt="Colour tests 3+4" style="zoom:25%;" />
+![](https://64.media.tumblr.com/ee7f42a9e51283654f08bf561278ce2e/64a7174519d02852-81/s640x960/026b3461074940ca824026fa0aae09814fb30039.pnj)<img src="https://64.media.tumblr.com/5f9098e0d870ae706773562b7b5ace47/64a7174519d02852-bb/s1280x1920/1e9dd4e2f76bed30decacf4692b67be75e389041.pnj" alt="colour tests 2" style="zoom:25%;" /><img src="![image](https://user-images.githubusercontent.com/128434192/233359723-40de471d-fdc7-4464-a686-ba00d97203df.png)" alt="Colour tests 3+4" style="zoom:25%;" />
 ⇠ Colour test images
 
 ***
